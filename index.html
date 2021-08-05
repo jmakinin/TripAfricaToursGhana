@@ -114,12 +114,12 @@
 						</div>
 						<div class="item">
 							<div class="package-membership ftco-animate">
-								<a class="img d-flex justify-content-center align-items-center" style="background-image: url(images/1582277908307_Image.jpeg);">
+								<a class="img d-flex justify-content-center align-items-center" style="background-image: url(tripafricatoursghana.comGallery/www.tripafricatoursghana.com024.jpg);">
 									<div class="text text-center d-flex align-items-end">
 										<div class="desc">
-											<h3>Nzulezu Stilt Village</h3>
+											<h3>Making Shear Butter</h3>
 											<p>
-												The iconic scenery in this environment will leave you stunned, get the first hand experience of this and you will have a story to tell.
+												The effort put into this process is outstanding, and will leave you marvelled. You have to witness this
 											</p>
 										</div>
 									</div>
