@@ -1,3 +1,4 @@
 *.mov
 *.MOV
 videos/*
+node_modules/*

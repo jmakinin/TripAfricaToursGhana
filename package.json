@@ -1,0 +1,31 @@
+{
+  "name": "tripafricatoursghana",
+  "version": "1.0.0",
+  "description": "trip africa travel and tours website files",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "lint": "npm run lint:js && npm run lint:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmakinin/TripAfricaToursGhana.git"
+  },
+  "keywords": [
+    "tripafricatoursghana.com",
+    "trips",
+    "africa",
+    "tours",
+    "ghana",
+    "tourism"
+  ],
+  "author": "jmakinin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmakinin/TripAfricaToursGhana/issues"
+  },
+  "homepage": "https://github.com/jmakinin/TripAfricaToursGhana#readme",
+  "dependencies": {
+    "eslint": "^7.32.0"
+  }
+}
