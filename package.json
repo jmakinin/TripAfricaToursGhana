@@ -25,7 +25,8 @@
     "url": "https://github.com/jmakinin/TripAfricaToursGhana/issues"
   },
   "homepage": "https://github.com/jmakinin/TripAfricaToursGhana#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "eslint": "^7.32.0"
   }
 }
